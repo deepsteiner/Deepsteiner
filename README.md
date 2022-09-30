@@ -54,4 +54,4 @@ python eval.py -h
 
 
 ## Acknowledgements
-Thanks to [ wouterkool / attention-learn-to-route ](https://github.com/wouterkool/attention-learn-to-route#attention-learn-to-solve-routing-problems) for getting me started with the code for the graph attention model.
+Thanks to [ wouterkool / attention-learn-to-route ](https://github.com/wouterkool/attention-learn-to-route#attention-learn-to-solve-routing-problems) for getting us started with the code for the graph attention model.
