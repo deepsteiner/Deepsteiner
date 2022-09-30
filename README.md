@@ -3,7 +3,7 @@
 A deep reinforcment learning model to solve the Euclidean Steiner Tree (EST) problem. Training with REINFORCE with greedy rollout baseline.
 
 ## paper
-Implementation of our paper: [Deep-Steiner: Learning to Solve the Euclidean Steiner Tree Problem](https://arxiv.org/abs/2209.09983), which is accepted by [EAI WiCON 2022](https://wicon.eai-conferences.org/2022/)
+Implementation of our paper: [Deep-Steiner: Learning to Solve the Euclidean Steiner Tree Problem](https://arxiv.org/abs/2209.09983), which is accepted by [EAI WiCON 2022](https://wicon.eai-conferences.org/2022/).
 
 ## Dependencies
 
